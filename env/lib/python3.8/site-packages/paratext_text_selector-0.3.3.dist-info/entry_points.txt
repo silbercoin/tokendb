@@ -1,0 +1,3 @@
+[console_scripts]
+set-texts = pt_text_selector.main:main
+
